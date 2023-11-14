@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Simple Analysis
+email: jake.r.snell@gmail.com
+
+#write html inside the double quotes to display in jumbotron
+description: "<br><br><h5>Welcome to my blog about various computer science topics.</h5><h5> Hope you enjoy!</h5>"
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Jakersnell.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  jakersnell
+
+# Build settings
+markdown: kramdown
