@@ -14,8 +14,8 @@ description: "<br><br><h5>Welcome to my blog about various computer science topi
 
 
 
-baseurl: "Jakersnell.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "Jakersnell.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  jakersnell
 
