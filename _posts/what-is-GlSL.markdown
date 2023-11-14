@@ -8,4 +8,4 @@ GLSL (OpenGL Shader Language) is a gpu shader language developed for the openGL 
 A .frag file is a fragment shader file, there are multiple types of shaders that relate to their function in the graphics pipeline. A fragment shader is meant to operate on and for and individual pixel of the end image, meaning that a copy of the fragment shader is ran for each individual pixel in the defined image, whether that be a image file, or the screen you wish to output to.
 
 ### A collection of my shaders can be viewed in effect [here](https://www.shadertoy.com/profile/?show=shaders).
-### my GLSL [github repo](https://github.com/Jakersnell/GLSL)
+### [my GLSL github repo](https://github.com/Jakersnell/GLSL)
