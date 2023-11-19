@@ -1,8 +1,7 @@
 ---
-layout: post | default | page
+layout: post
 title:  What is GLSL?
-date:   Time Stamp
-categories: ["GLSL", "GPU", "Graphics"] 
+categories: ["GLSL","GPU","Graphics"] 
 ---
 
 ## What is a Shader?

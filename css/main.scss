@@ -9,16 +9,21 @@
 .project {
   text-align: center;
   width: auto; /* Adjust 10px based on desired spacing */
-  border: black solid 0.2vw;
-  box-sizing: border-box; /* Include padding and borders in the element's total width and height */
+}
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#repos-container {
-  display: grid;
-  grid-template-columns: repeat(4, auto); /* Creates 4 columns */
-  grid-gap: 10px; /* Adjust the gap as needed */
+.profile-img {
+  margin-right: 2vw; 
+  border-radius: 50%;
 }
 
+.about-content {
+  text-align: center;
+}
 
 .main-spacer {
   padding: 3vw;

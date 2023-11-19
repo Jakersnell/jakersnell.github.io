@@ -33,7 +33,7 @@ layout: default
       </span>
       <span class="categories-on">
         {% for category in post.categories%}
-        {{category}} &nbsp;{% if forloop.last %}{% else %},{% endif %}
+        {{category}}{% if forloop.last %}{% else %},{% endif %}
         {% endfor %}
       </span>
     </div>
